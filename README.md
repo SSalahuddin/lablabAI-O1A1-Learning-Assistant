@@ -19,7 +19,7 @@ Here’s the updated `README.md` file based on the provided details:
 
 This AI-powered educational tool is designed to help users with their learning-related questions, tailored to their learning level. Whether you're a child, a teenager, or an adult with minimal knowledge, the assistant provides step-by-step guidance to help you grasp concepts in an easy-to-understand manner.
 
-The app was developed as part of the [lablab.ai Reasoning with o1 Hackathon](https://lablab.ai/) by team O1A1 and is hosted on Hugging Face. You can access the application [here](https://huggingface.co/spaces/Sumayyea/CodeMasterAI).
+The app was developed as part of the [lablab.ai Reasoning with o1 Hackathon]([https://lablab.ai/](https://lablab.ai/event/strawberry-reasoning-with-o1)) by team O1A1 and is hosted on Hugging Face. You can access the application [here](https://huggingface.co/spaces/Sumayyea/lablabAI-O1A1-Learning-Assistant).
 
 ## How It Works
 
@@ -125,7 +125,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to open an issue or submit a pull request if you'd like to contribute!
-
----
-
-This updated README incorporates all the instructions and features of your app. You can customize further based on additional details.
